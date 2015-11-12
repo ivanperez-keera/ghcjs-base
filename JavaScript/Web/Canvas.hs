@@ -4,6 +4,7 @@
 
 module JavaScript.Web.Canvas ( Context
                              , Canvas
+                             , unsafeToCanvas
                              , Image
                              , TextAlign(..)
                              , TextBaseline(..)
